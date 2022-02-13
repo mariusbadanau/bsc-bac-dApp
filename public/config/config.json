@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x1DD36E5A15Eca50d2F9AAd5F538D9A4EC9892190",
+  "SCAN_LINK": "https://bscscan.com/token/0x1DD36E5A15Eca50d2F9AAd5F538D9A4EC9892190",
+  "ADD_POLYGON": "https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain",
+  "NETWORK": {
+    "NAME": "Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Binance Baby Ape",
+  "SYMBOL": "BSCBAC",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNFT",
+  "TWITEER": "Twitter",
+  "MARKETPLACE_LINK": "https://tofunft.com/discover/items?contracts=12455",
+  "TWITEER_LINK": "https://twitter.com/Binance_BAC",
+  "SHOW_BACKGROUND": false
+}
